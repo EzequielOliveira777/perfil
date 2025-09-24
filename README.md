@@ -24,11 +24,6 @@ Principalmente focado em **HTML e CSS**.
 
 ---
 
-### ⚙️ [99889988](https://github.com/Ezequieloliveira777/99889988)
-Arquivos de configuração para meu perfil do GitHub.
-
----
-
 ## 📊 Status
 > 🚧 Sempre aprendendo e construindo novos projetos.
 
