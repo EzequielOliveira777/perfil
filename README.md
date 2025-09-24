@@ -5,6 +5,18 @@ Aqui você encontra alguns dos meus projetos em estudo e prática de programaç�
 
 ---
 
+## 🛠 Tecnologias que estudo e utilizo
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
 ## 📌 Projetos em Destaque
 
 ### 🎮 [jogo.script](https://github.com/Ezequieloliveira777/jogo.script)
@@ -24,10 +36,19 @@ Principalmente focado em **HTML e CSS**.
 
 ---
 
+
 ## 📊 Status
 > 🚧 Sempre aprendendo e construindo novos projetos.
 
 ---
 
-## ✨ Autor
-Feito com por **Ezequiel Oliveira**
+## 🌎 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.oliveirazx/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-oliveira-185523284/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email:ezequielnv9@gmail.com)
+
+---
+
+*Feito por **Ezequiel Oliveira***
