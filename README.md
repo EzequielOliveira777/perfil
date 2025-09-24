@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Ezequiel
 
-Bem-vindo ao meu perfil no GitHub! 🚀
-Tenho 18 anos, moro em Florianopólis. Atualmente faço faculdade na <a href="https://www.grancursosonline.com.br/">Gran Faculdade</a>, e faço os cursos na <a href="https://tipscode.com.br/">TipsCode</a>.
+Tenho 18 anos 🚀 moro em Florianopólis. Atualmente faço faculdade na <a href="https://www.grancursosonline.com.br/">Gran Faculdade</a>, e faço os cursos na <a href="https://tipscode.com.br/">TipsCode</a>.
 
 ---
 
