@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Ezequiel
 
-Bem-vindo ao meu perfil no GitHub! 🚀  
-Aqui você encontra alguns dos meus projetos em estudo e prática de programação.
+Bem-vindo ao meu perfil no GitHub! 🚀
+Tenho 18 anos, moro em Florianopólis. Atualmente faço faculdade na <a href="https://www.grancursosonline.com.br/">Gran Faculdade</a>, e faço os cursos na <a href="https://tipscode.com.br/">TipsCode</a>
 
 ---
 
@@ -12,8 +12,6 @@ Aqui você encontra alguns dos meus projetos em estudo e prática de programaç�
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
