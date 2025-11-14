@@ -13,3 +13,24 @@
   outline: none;
   font-weight: bold;
 }
+
+.button:active {
+  background-color: #ccc;
+}
+
+.button.col2 {
+  grid-column: span 2;
+}
+
+.button.col3 {
+  grid-column: span 3;
+}
+
+.button.operation {
+  background-color: #fa8231;
+}
+
+.button.operation:active {
+  background-color: #fa8231;
+  color: #fff;
+}
